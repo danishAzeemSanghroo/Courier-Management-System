@@ -1,0 +1,5 @@
+jack jack@gmail.com 97662 1234 customer
+Man man@gmail.com 837636 12234 
+who who@gmail.com 27728 8282 
+old old@gmail.com 2765 777 customer
+new new@gmail.com 866 7777 customer
